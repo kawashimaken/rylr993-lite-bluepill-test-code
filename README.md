@@ -9,7 +9,8 @@ Test code for RYLR993 Lite module from REYAX Technology
 
 # Watch the video
 
-[![](https://www.youtube.com/watch?v=n4BayMWz080)](https://www.youtube.com/watch?v=n4BayMWz080)
+[![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
+
 
 # My Links
 
