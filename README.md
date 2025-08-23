@@ -3,8 +3,8 @@
 Test code for RYLR993 Lite module from REYAX Technology
 * Arduino IDE + Arduino Core STM32 (https://github.com/stm32duino/Arduino_Core_STM32)
 * RYLR993 Lite link : https://reyax.com/products/RYLR993_Lite
-* recommanded parameters : AT+PARAMETER=9,7,1,12
-* parameters for possibly longer distance : AT+PARAMETER=11,7,4,24
+* recommanded parameters : ```AT+PARAMETER=9,7,1,12```
+* parameters for possibly longer distance : ```AT+PARAMETER=11,7,4,24```
 * AT Command Doc : https://reyax.com//upload/products_download/download_file/RYLR993_AT_Command.pdf
 
 # Watch the video
