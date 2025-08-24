@@ -7,6 +7,13 @@ Test code for RYLR993 Lite module from REYAX Technology
 * parameters for possibly longer distance : ```AT+PARAMETER=11,7,4,24```
 * AT Command Doc : https://reyax.com//upload/products_download/download_file/RYLR993_AT_Command.pdf
 
+# ⚠️ Warning / Disclaimer
+
+This code is provided **for experimental and educational purposes only**.  
+It is **not guaranteed to work** in all situations, and **may cause unexpected behavior**.  
+Use it **at your own risk**. The author assumes no responsibility for any damage, data loss, or hardware issues that may occur.  
+This code is meant to be a **reference** and starting point for your own experiments.
+
 # Watch the video
 
 [![Watch the video](https://img.youtube.com/vi/n4BayMWz080/0.jpg)](https://www.youtube.com/watch?v=n4BayMWz080)
